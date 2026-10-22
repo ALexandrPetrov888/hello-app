@@ -1,3 +1,4 @@
 def blackGreeting():
-    print "hello black"
+    print ("hello everyone")
+    whiteGreeting()
     
