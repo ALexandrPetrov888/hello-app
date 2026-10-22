@@ -1,1 +1,3 @@
-print("hello")
+def blackGreeting():
+    print "hello black"
+    
